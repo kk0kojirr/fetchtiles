@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="geotile_fetch.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="tileurl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://cyberjapandata.gsi.go.jp/xyz/std/{0}/{1}/{2}.{3}</Value>
+    </Setting>
+    <Setting Name="filetype" Type="System.String" Scope="User">
+      <Value Profile="(Default)">png</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
